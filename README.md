@@ -1,0 +1,2 @@
+# Healthy-Life-Style-Hackathon-by-Consulting-and-Analytics-Club-IIT-Guwahati
+The dataset contains various factors that contribute to a person's lifestyle.The task is to build a model that uses these factors to predict whether a person is leading a 'healthy' lifestyle or not. The training set contains 25,920 rows, including whether a person's lifestyle is healthy or not.Use this to train an ML model and test it on test data.
